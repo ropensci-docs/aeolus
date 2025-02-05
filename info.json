@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "b83177d43bbccd9b73c83c977fb026f4ad67c5b2",
+    "author": "Maëlle Salmon <maelle.salmon@yahoo.se>",
+    "time": "2025-02-04 13:26:57",
+    "files": 1,
+    "merge": false,
+    "message": "docs: add rOpenSci's ROR :rocket:\n"
+  },
+  "repo": "https://github.com/ropenscilabs/aeolus",
+  "pkg": "aeolus"
+}
